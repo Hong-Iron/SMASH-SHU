@@ -1,0 +1,92 @@
+{
+  "code": "SHU",
+  "title": "SMASH SHU",
+  "school": "삼육보건대",
+  "fullName": "삼육보건대학교",
+  "campusName": "삼육보건대학교",
+  "tagline": "삼육보건대를 부셔 (시험기간 스트레스 해소)",
+  "description": "삼육보건대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 삼육보건대학교 3D 화면과 SMASH SHU 제목",
+  "url": "https://hong-iron.github.io/SMASH-SHU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 416586665
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/1066946373",
+      "n": "삼육서울병원유자원",
+      "why": "학교 건물 아님 — 삼육서울병원이 운영하는 요양원 유자원으로, 건축물대장 이름이 '삼육서울병원 데이케어센터 요양원'이고, 학교 캠퍼스맵에서도 대학 건물이 아니라 이웃 시설로 표시된다."
+    },
+    {
+      "at": [
+        37.5896501,
+        127.0645839
+      ],
+      "n": "23-3.삼육서울병원 병원장(3호 사택)",
+      "why": "학교 건물 아님 — 건축물대장 이름이 '삼육서울병원 병원장(3호 사택)'인 단독주택이고, 학교 캠퍼스맵에서도 대학 건물이 아닌 '사택'으로 표시된다."
+    },
+    {
+      "at": [
+        37.5895533,
+        127.0637656
+      ],
+      "n": "23-1.삼육서울병원 가동",
+      "why": "학교 건물 아님 — 사진에 집은 서 있지만 대장상 '삼육서울병원 가동'이라는 병원 직원 사택(연립주택)이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        37.5892366,
+        127.0632712
+      ],
+      "n": "18.삼육서울병원 그린어린이집문화센타",
+      "why": "학교 건물 아님 — 건축물대장 이름이 '삼육서울병원 그린어린이집문화센타'인 병원 어린이집이고, 학교 캠퍼스맵에도 대학 건물이 아닌 그린어린이집으로 표시된다."
+    },
+    {
+      "at": [
+        37.5887718,
+        127.0656126
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — H관 앞 보도 옆 화단 자리라 사진에 지붕이 보이지 않고, H관(1990년 승인) 대장의 작은 조각이 따로 그려진 것이다."
+    },
+    {
+      "at": [
+        37.589675,
+        127.064198
+      ],
+      "n": "23-2.삼육서울병원 나동",
+      "why": "학교 건물 아님 — 대장상 '삼육서울병원 나동'이라는 병원 직원 사택(연립주택)이라 학교 건물이 아니다."
+    }
+  ],
+  "look": {
+    "H관": {
+      "style": "stone",
+      "wall": "#ecdccb",
+      "glass": "#2f302b",
+      "frame": "#d8cfc6"
+    },
+    "A관": {
+      "style": "ribbon",
+      "wall": "#e6dccb",
+      "glass": "#3a3631",
+      "frame": "#cdbfae"
+    },
+    "U관": {
+      "style": "concrete",
+      "wall": "#aea193",
+      "glass": "#3f3d38",
+      "frame": "#8b8881"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
